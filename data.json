@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "site": "Visit Japan",
+      "url": "https://bottleneck14.github.io/landing-page-2/",
+      "image": "https://i.ibb.co.com/pJ0s3Bx/1.png"
+    },
+    {
+      "id": 2,
+      "site": "Hutan Pinus Pengger",
+      "url": "https://bottleneck14.github.io/reactuts/",
+      "image": "https://i.ibb.co.com/YXq68P3/2.png"
+    },
+    {
+      "id": 3,
+      "site": "AIOS",
+      "url": "https://bottleneck14.github.io/aios/",
+      "image": "https://i.ibb.co.com/KDRkkzK/3.png"
+    },
+    {
+      "id": 4,
+      "site": "Lenggah Wear Kids",
+      "url": "https://lenggah.store/",
+      "image": "https://i.ibb.co.com/5LtyxkN/4.png"
+    }
+  ]
+}
